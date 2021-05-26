@@ -911,7 +911,7 @@ textarea:focus:-ms-input-placeholder {
 }  
 
 @media (max-width: 1199px){
-    .top-bar {background-color: rgba(168, 159, 136, 0.5); position: static; text-align: center; padding: 10px 0; background-image: url("../images/slider/1920x1080-1.jpg");}   
+    .top-bar {background-color: rgba(168, 159, 136, 0.5); position: static; text-align: center; padding: 10px 0; background-image: url("../images/slider/1920x1080-1.jpg");}
     .top-bar .left, .top-bar .right {float: none;}
     .top-bar .left > div, .top-bar .right > div {height: auto; padding: 15px !important;}
     .top-bar .top-nav {
@@ -2520,7 +2520,7 @@ textarea:focus:-ms-input-placeholder {
     position: relative;
     text-align: center;
     z-index: 1;
-    margin-top: 30px;
+    margin-top: 200px;
 }
 .main-banner-1 .search-tabs::before {
     border-top: 1px solid #587d8f;
@@ -2533,7 +2533,7 @@ textarea:focus:-ms-input-placeholder {
 }
 .main-banner-1 .search-tabs li {
     display: inline-block;
-    margin: auto 25px;
+    margin: auto 15px;
     text-align: center;
 }
 .main-banner-1 .search-tabs .icon {    
