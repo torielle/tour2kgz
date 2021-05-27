@@ -2497,11 +2497,11 @@ textarea:focus:-ms-input-placeholder {
 ********************************/
 
 /*-- Banner One --*/
-.main-banner-1 {position: relative; background-image: url(../images/background/1920x1080-2.jpg); padding: 5% 0; background-size: cover;} 
+.main-banner-1 {position: relative; background-image: url(../images/background/1920x1080-2.jpg); padding: 1% 0 5% 0; background-size: cover;}
 .main-banner-1 .item {position: relative; color: #fff;}
-.main-banner-1 .info {padding-top: 5%;  text-align: center;}
+.main-banner-1 .info {padding-top: 0;  text-align: center;}
 .main-banner-1 .info > .font-2 {font-size: 40px; color: #fff; padding: 15px 0;}
-.main-banner-1 .info p {margin: 15px 0; font-size: 15px; margin: 15px auto 50px;}
+.main-banner-1 .info p {font-size: 15px; margin: 15px auto 50px auto;}
 .main-banner-1 .search-wrap {margin: auto;  padding-top: 8%;}
 .main-banner-1 .search-tabs a {color: #ffffff; font-size: 18px; position: relative; display: inline-block; padding: 0 6px;}
 .main-banner-1 .search-tabs a::before {

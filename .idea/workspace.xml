@@ -4,13 +4,7 @@
     <list default="true" id="ee40ee99-81a1-4654-8396-03ef11d117bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background/1920x1080-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/background/1920x1080-1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/images/background/1920x1080-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/background/1920x1080-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/icons/logo-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icons/logo-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logo/logo-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo/logo-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/slider/1920x1080-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/slider/1920x1080-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -35,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="388" column="35" lean-forward="true" selection-start-line="388" selection-start-column="35" selection-end-line="388" selection-end-column="46" />
+            <state relative-caret-position="132">
+              <caret line="249" column="52" selection-start-line="249" selection-start-column="48" selection-end-line="249" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -54,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="2522" column="18" selection-start-line="2522" selection-start-column="18" selection-end-line="2522" selection-end-column="18" />
+            <state relative-caret-position="293">
+              <caret line="2522" column="17" selection-start-line="2522" selection-start-column="17" selection-end-line="2522" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -69,11 +63,15 @@
       <find>behanc</find>
       <find>fa-behanc</find>
       <find>travel ag</find>
-      <find>1920</find>
       <find>fa-beha</find>
       <find>1920x1080</find>
       <find>hotels</find>
       <find>search-tabs</find>
+      <find>info co</find>
+      <find>disc</find>
+      <find>info</find>
+      <find>1920</find>
+      <find>main-banner-1</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -177,7 +175,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621960705968</updated>
-      <workItem from="1621960711268" duration="15244000" />
+      <workItem from="1621960711268" duration="18429000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1621961292856</created>
@@ -200,11 +198,18 @@
       <option name="project" value="LOCAL" />
       <updated>1621965458650</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="edit main header">
+      <created>1622052464379</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622052464379</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15244000" />
+    <option name="totallyTimeSpent" value="18429000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -235,7 +240,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="edit img of header" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit img of header" />
+    <MESSAGE value="edit main header" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit main header" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/js/theme.js">
@@ -267,15 +273,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="388" column="35" lean-forward="true" selection-start-line="388" selection-start-column="35" selection-end-line="388" selection-end-column="46" />
+        <state relative-caret-position="132">
+          <caret line="249" column="52" selection-start-line="249" selection-start-column="48" selection-end-line="249" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="2522" column="18" selection-start-line="2522" selection-start-column="18" selection-end-line="2522" selection-end-column="18" />
+        <state relative-caret-position="293">
+          <caret line="2522" column="17" selection-start-line="2522" selection-start-column="17" selection-end-line="2522" selection-end-column="17" />
         </state>
       </provider>
     </entry>
