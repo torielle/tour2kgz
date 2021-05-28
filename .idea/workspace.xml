@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ee40ee99-81a1-4654-8396-03ef11d117bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/slider/970x500-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/slider/970x500-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/slider/970x500-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/slider/970x500-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,27 +18,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+            <state relative-caret-position="119">
+              <caret line="509" column="40" lean-forward="true" selection-start-line="509" selection-start-column="40" selection-end-line="509" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-143">
-              <caret line="1330" column="18" selection-start-line="1330" selection-start-column="18" selection-end-line="1330" selection-end-column="18" />
+            <state relative-caret-position="323">
+              <caret line="138" column="77" lean-forward="true" selection-start-line="138" selection-start-column="44" selection-end-line="138" selection-end-column="77" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index-3.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1734" />
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -55,6 +59,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>top</find>
@@ -62,17 +73,17 @@
       <find>behanc</find>
       <find>fa-behanc</find>
       <find>travel ag</find>
-      <find>fa-beha</find>
       <find>1920x1080</find>
       <find>hotels</find>
       <find>search-tabs</find>
       <find>info co</find>
-      <find>disc</find>
       <find>info</find>
       <find>1920</find>
       <find>main-banner-1</find>
       <find>container</find>
       <find>main-banner-1 .info</find>
+      <find>fa-beha</find>
+      <find>disc</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -82,9 +93,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/index-2.html" />
+        <option value="$PROJECT_DIR$/index-ru.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -130,13 +142,6 @@
               <item name="tour2kgz" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="background" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tour2kgz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tour2kgz" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
               <item name="slider" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -146,6 +151,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
@@ -176,7 +182,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621960705968</updated>
-      <workItem from="1621960711268" duration="19697000" />
+      <workItem from="1621960711268" duration="24822000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1621961292856</created>
@@ -213,25 +219,38 @@
       <option name="project" value="LOCAL" />
       <updated>1622103670002</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="close to comment function">
+      <created>1622136224588</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622136224588</updated>
+    </task>
+    <task id="LOCAL-00007" summary="index file replacement">
+      <created>1622136657571</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622136657571</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19697000" />
+    <option name="totallyTimeSpent" value="24822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -249,7 +268,9 @@
     <MESSAGE value="init commit" />
     <MESSAGE value="edit img of header" />
     <MESSAGE value="edit main header" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit main header" />
+    <MESSAGE value="close to comment function" />
+    <MESSAGE value="index file replacement" />
+    <option name="LAST_COMMIT_MESSAGE" value="index file replacement" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/js/theme.js">
@@ -263,21 +284,11 @@
         <state relative-caret-position="-306" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index-3.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/index-4.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/slider/1920x1080-1.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="62" lean-forward="true" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -286,10 +297,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1734" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index-2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-143">
-          <caret line="1330" column="18" selection-start-line="1330" selection-start-column="18" selection-end-line="1330" selection-end-column="18" />
+        <state relative-caret-position="323">
+          <caret line="138" column="77" lean-forward="true" selection-start-line="138" selection-start-column="44" selection-end-line="138" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-ru.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="65" column="78" selection-start-line="65" selection-start-column="78" selection-end-line="65" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="509" column="40" lean-forward="true" selection-start-line="509" selection-start-column="40" selection-end-line="509" selection-end-column="40" />
         </state>
       </provider>
     </entry>
