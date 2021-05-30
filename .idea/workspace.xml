@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee40ee99-81a1-4654-8396-03ef11d117bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/slider/970x500-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/slider/970x500-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/slider/970x500-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/slider/970x500-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="ee40ee99-81a1-4654-8396-03ef11d117bf" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -182,7 +177,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1621960705968</updated>
-      <workItem from="1621960711268" duration="24822000" />
+      <workItem from="1621960711268" duration="25165000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1621961292856</created>
@@ -233,11 +228,18 @@
       <option name="project" value="LOCAL" />
       <updated>1622136657571</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="lang ru, add photo-gallery">
+      <created>1622219544671</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1622219544671</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24822000" />
+    <option name="totallyTimeSpent" value="25165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -270,7 +272,8 @@
     <MESSAGE value="edit main header" />
     <MESSAGE value="close to comment function" />
     <MESSAGE value="index file replacement" />
-    <option name="LAST_COMMIT_MESSAGE" value="index file replacement" />
+    <MESSAGE value="lang ru, add photo-gallery" />
+    <option name="LAST_COMMIT_MESSAGE" value="lang ru, add photo-gallery" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/js/theme.js">
