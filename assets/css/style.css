@@ -43,6 +43,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,900');
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700');
 @import url('https://fonts.googleapis.com/css?family=Aguafina+Script&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@500&display=swap');
 
 
 /******************************* 
@@ -738,7 +739,7 @@ textarea:focus:-ms-input-placeholder {
 /*------------------------ 1.7 Content Middle Ends ------------------------ */
 
 /*--------------------------1.8 Theme Fonts Starts------------------- */
-.font-2 {font-family: 'Aguafina Script', cursive;}
+.font-2 {font-family: 'Yanone Kaffeesatz', sans-serif;}
 
 .fsz-8 { font-size: 8px; }
 .fsz-11 { font-size: 11px; }
@@ -2499,8 +2500,8 @@ textarea:focus:-ms-input-placeholder {
 /*-- Banner One --*/
 .main-banner-1 {position: relative; background-image: url(../images/background/1920x1080-2.jpg); padding: 1% 0 5% 0; background-size: cover;}
 .main-banner-1 .item {position: relative; color: #fff;}
-.main-banner-1 .info {padding-top: 0;  text-align: center;}
-.main-banner-1 .info > .font-2 {font-size: 40px; color: #fff; padding: 15px 0;}
+.main-banner-1 .info {padding-top: 0;  text-align: right;}
+.main-banner-1 .info > .font-2 {font-size: 40px; color: #0f493d; padding: 0 0 15px 0;}
 .main-banner-1 .info p {font-size: 15px; margin: 15px auto 50px auto;}
 .main-banner-1 .search-wrap {margin: auto;  padding-top: 8%;}
 .main-banner-1 .search-tabs a {color: #ffffff; font-size: 18px; position: relative; display: inline-block; padding: 0 6px;}
@@ -2523,7 +2524,7 @@ textarea:focus:-ms-input-placeholder {
     margin-top: 200px;
 }
 .main-banner-1 .search-tabs::before {
-    border-top: 1px solid #587d8f;
+    border-top: 1px solid #164d42;
     content: "";
     left: 0;
     position: absolute;
@@ -2537,8 +2538,8 @@ textarea:focus:-ms-input-placeholder {
     text-align: center;
 }
 .main-banner-1 .search-tabs .icon {    
-    border: 1px solid #587d8f;
-    background-color: #00374d;
+    border: 1px solid #0f493d;
+    background-color: #0f493d;
     border-radius: 50%;
     color: #ffffff;
     display: block;
