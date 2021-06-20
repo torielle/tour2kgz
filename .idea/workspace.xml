@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-34">
-              <caret line="1046" column="46" selection-start-line="1046" selection-start-column="46" selection-end-line="1046" selection-end-column="46" />
+            <state relative-caret-position="456">
+              <caret line="1114" column="96" selection-start-line="1114" selection-start-column="96" selection-end-line="1114" selection-end-column="96" />
             </state>
           </provider>
         </entry>
@@ -178,7 +178,7 @@
       <workItem from="1623257840234" duration="1864000" />
       <workItem from="1623518983998" duration="4603000" />
       <workItem from="1623820624046" duration="3512000" />
-      <workItem from="1624035423766" duration="3629000" />
+      <workItem from="1624035423766" duration="4817000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1621961292856</created>
@@ -278,11 +278,18 @@
       <option name="project" value="LOCAL" />
       <updated>1623824875669</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="change new block">
+      <created>1624039412991</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1624039412991</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50200000" />
+    <option name="totallyTimeSpent" value="51388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -322,7 +329,8 @@
     <MESSAGE value="change gallery block" />
     <MESSAGE value="change business service block" />
     <MESSAGE value="change ideal trip block" />
-    <option name="LAST_COMMIT_MESSAGE" value="change ideal trip block" />
+    <MESSAGE value="change new block" />
+    <option name="LAST_COMMIT_MESSAGE" value="change new block" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/js/theme.js">
@@ -345,8 +353,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-34">
-          <caret line="1046" column="46" selection-start-line="1046" selection-start-column="46" selection-end-line="1046" selection-end-column="46" />
+        <state relative-caret-position="456">
+          <caret line="1114" column="96" selection-start-line="1114" selection-start-column="96" selection-end-line="1114" selection-end-column="96" />
         </state>
       </provider>
     </entry>
