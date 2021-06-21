@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="ee40ee99-81a1-4654-8396-03ef11d117bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gallery/370x370-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/gallery/370x370-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gallery/370x370-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/gallery/370x370-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gallery/370x370-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/gallery/370x370-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gallery/370x470-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/gallery/370x470-1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="1114" column="96" selection-start-line="1114" selection-start-column="96" selection-end-line="1114" selection-end-column="96" />
+            <state relative-caret-position="-411">
+              <caret line="1033" column="72" selection-start-line="1033" selection-start-column="72" selection-end-line="1033" selection-end-column="81" />
             </state>
           </provider>
         </entry>
@@ -133,6 +137,19 @@
               <item name="tour2kgz" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tour2kgz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tour2kgz" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tour2kgz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tour2kgz" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="gallery" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -178,7 +195,7 @@
       <workItem from="1623257840234" duration="1864000" />
       <workItem from="1623518983998" duration="4603000" />
       <workItem from="1623820624046" duration="3512000" />
-      <workItem from="1624035423766" duration="4817000" />
+      <workItem from="1624035423766" duration="8601000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1621961292856</created>
@@ -285,11 +302,18 @@
       <option name="project" value="LOCAL" />
       <updated>1624039412991</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="change new block">
+      <created>1624185781636</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1624185781636</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51388000" />
+    <option name="totallyTimeSpent" value="55172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -353,8 +377,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="1114" column="96" selection-start-line="1114" selection-start-column="96" selection-end-line="1114" selection-end-column="96" />
+        <state relative-caret-position="-411">
+          <caret line="1033" column="72" selection-start-line="1033" selection-start-column="72" selection-end-line="1033" selection-end-column="81" />
         </state>
       </provider>
     </entry>
