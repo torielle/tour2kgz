@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee40ee99-81a1-4654-8396-03ef11d117bf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/gallery/370x370-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/gallery/370x370-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/gallery/370x370-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/gallery/370x370-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/gallery/370x370-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/gallery/370x370-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/gallery/370x470-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/gallery/370x470-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/background/1920x940-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/background/1920x940-1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-411">
-              <caret line="1033" column="72" selection-start-line="1033" selection-start-column="72" selection-end-line="1033" selection-end-column="81" />
+            <state relative-caret-position="128">
+              <caret line="1139" column="24" selection-start-line="1139" selection-start-column="24" selection-end-line="1139" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -195,7 +191,7 @@
       <workItem from="1623257840234" duration="1864000" />
       <workItem from="1623518983998" duration="4603000" />
       <workItem from="1623820624046" duration="3512000" />
-      <workItem from="1624035423766" duration="8601000" />
+      <workItem from="1624035423766" duration="12290000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1621961292856</created>
@@ -309,11 +305,18 @@
       <option name="project" value="LOCAL" />
       <updated>1624185781636</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="change new block">
+      <created>1624296565934</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1624296565943</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55172000" />
+    <option name="totallyTimeSpent" value="58861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -375,13 +378,6 @@
     <entry file="file://$PROJECT_DIR$/assets/ico/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-411">
-          <caret line="1033" column="72" selection-start-line="1033" selection-start-column="72" selection-end-line="1033" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index-2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2346">
@@ -399,6 +395,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2465">
           <caret line="145" column="18" selection-start-line="144" selection-start-column="25" selection-end-line="145" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/gallery/370x370-3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/gallery/370x370-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/gallery/370x470-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="1139" column="24" selection-start-line="1139" selection-start-column="24" selection-end-line="1139" selection-end-column="24" />
         </state>
       </provider>
     </entry>
