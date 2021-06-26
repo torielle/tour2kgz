@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ee40ee99-81a1-4654-8396-03ef11d117bf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background/1920x1080-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/background/1920x1080-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background/1920x600-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/background/1920x600-4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/images/slider/970x500-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/slider/970x500-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/slider/970x500-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/slider/970x500-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fullwidth.html" beforeDir="false" afterPath="$PROJECT_DIR$/fullwidth.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/slider/970x500-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/slider/970x500-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/slider/970x500-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/slider/970x500-4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +61,7 @@
       <workItem from="1623820624046" duration="3512000" />
       <workItem from="1624035423766" duration="20345000" />
       <workItem from="1624727376071" duration="135000" />
-      <workItem from="1624727893033" duration="2601000" />
+      <workItem from="1624727893033" duration="7852000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1621961292856</created>
@@ -205,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624388581574</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="change new block">
+      <created>1624730586259</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1624730586259</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,5 +230,15 @@
     <MESSAGE value="change ideal trip block" />
     <MESSAGE value="change new block" />
     <option name="LAST_COMMIT_MESSAGE" value="change new block" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1624730583935">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1624730583935" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1624730588317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1624730588317" />
   </component>
 </project>
