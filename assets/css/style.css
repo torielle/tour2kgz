@@ -2710,7 +2710,7 @@ textarea:focus:-ms-input-placeholder {
     display: none;
     left: -25%;
     position: absolute;
-    top: 25%;
+    bottom: 25%;
     width: 80%;
 }
 .spotlight-slider .content {
