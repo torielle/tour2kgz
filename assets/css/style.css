@@ -280,6 +280,8 @@ img {
 .sec-space {padding-bottom: 100px; padding-top: 100px;}
 .sec-space-bottom {padding-bottom: 100px;}
 .sec-space-top {padding-top: 100px;}
+.trip-no-pad {padding-bottom: 0;}
+.business-no-top-pad {padding-top: 0;}
 .ptb-10{
     padding-bottom: 10px;
     padding-top: 10px;
