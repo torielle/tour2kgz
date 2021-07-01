@@ -1,13 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee40ee99-81a1-4654-8396-03ef11d117bf" name="Default Changelist" comment="change new block">
+    <list default="true" id="ee40ee99-81a1-4654-8396-03ef11d117bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/images/slider/970x500-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/slider/970x500-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/slider/970x500-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/slider/970x500-13.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/background/1920x1080-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/background/1920x1080-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/gallery/370x370-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/gallery/370x370-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/gallery/370x370-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/gallery/370x370-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/account-information.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/address-book.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/icon-11.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icons/icon-11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/icon-12.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icons/icon-12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/icon-13.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icons/icon-13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/icon-15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/icon-16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/icon-17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/icon-18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/icon-19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/icon-6.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/icons/icon-6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/item-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/item-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/item-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/lable-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/lable-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/map-big.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/map.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/partner-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/partner-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/partner-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/sign.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/text-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/text-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icons/text-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/before-you-fly.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cng-pw.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/coming-soon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/confirm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact-us.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/covid.html" beforeDir="false" afterPath="$PROJECT_DIR$/covid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer-variation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forgot-password.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-slider-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-slider-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-slider-3.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout-left.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout-right.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout-two.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listing-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listing-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listing-detail-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listing-detail-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listing-detail-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-account.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myaccount-leftsidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsletter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-history.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-holidays.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-search-result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-travel-insurance.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-travel-stories.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages-link.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-col-four.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-col-three.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio-col-two.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/return.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/review-rating.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shortcodes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/smaller-breadcrumb.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +134,7 @@
       <workItem from="1624727376071" duration="135000" />
       <workItem from="1624727893033" duration="8458000" />
       <workItem from="1624789486628" duration="13506000" />
-      <workItem from="1624946076662" duration="3561000" />
+      <workItem from="1624946076662" duration="7560000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1621961292856</created>
@@ -242,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624905618976</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="redact">
+      <created>1624950257734</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1624950257734</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,16 +337,17 @@
     <MESSAGE value="change business service block" />
     <MESSAGE value="change ideal trip block" />
     <MESSAGE value="change new block" />
-    <option name="LAST_COMMIT_MESSAGE" value="change new block" />
+    <MESSAGE value="redact" />
+    <option name="LAST_COMMIT_MESSAGE" value="redact" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1624949829798">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1624950256315">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1624949829798" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1624905620622">
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1624950256315" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1624950676023">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1624905620622" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1624950676023" />
   </component>
 </project>
